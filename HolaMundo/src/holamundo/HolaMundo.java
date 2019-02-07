@@ -16,6 +16,9 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         System.out.println("Hola fantastico mundo");
+        System.out.println("ADIOS");
+        System.out.println("VERDE");
+        System.out.println("ROJO");
     }
     
 }
